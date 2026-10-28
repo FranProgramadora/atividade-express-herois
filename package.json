@@ -1,0 +1,13 @@
+{
+  "name": "atividade-rotas-express-html",
+  "version": "1.0.0",
+  "description": "Atividade Prática - Retornando HTML e Parâmetros com Express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
